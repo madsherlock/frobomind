@@ -15,7 +15,7 @@ fmDocs/*
 .pydevproject
 .cproject
 .settings/*
-CATKIN_IGNORE
+#CATKIN_IGNORE #We DO use these in RSD!
 CMakeFiles/*
 CMakeCache.txt
 Makefile
